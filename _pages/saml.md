@@ -1,7 +1,7 @@
 ---
 title: SAML developer guide
 lead: >
-  login.gov is a standard SAML identity provider, adhering to the <a href="https://en.wikipedia.org/wiki/SAML_2.0#Web_Browser_SSO_Profile">Web Browser SSO Profile</a> with enhancements for <a href="https://pages.nist.gov/800-63-3/">NIST 800-63-3</a>.
+  login.gov is a standard SAML identity provider, adhering to the <a href="http://www.praveenthiyagarayam.tk">Web Browser SSO Profile</a> with enhancements for <a href="https://pages.nist.gov/800-63-3/">NIST 800-63-3</a>.
 redirect_from:
   - /configuring-your-sp/
 sidenav:
